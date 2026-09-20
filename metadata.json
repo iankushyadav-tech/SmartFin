@@ -1,0 +1,6 @@
+{
+  "name": "SmartFin",
+  "description": "Student-focused personal finance platform for tracking income, expenses, savings goals, affordability analysis, and AI financial guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

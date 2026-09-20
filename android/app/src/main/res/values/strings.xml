@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SmartFin</string>
+    <string name="title_activity_main">SmartFin</string>
+    <string name="package_name">com.codecapital.smartfin</string>
+    <string name="custom_url_scheme">com.codecapital.smartfin</string>
+</resources>
